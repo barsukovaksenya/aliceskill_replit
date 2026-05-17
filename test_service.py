@@ -1,7 +1,7 @@
 import requests
 
 
-url = ''
+url = 'https://aliceskillreplit--barsukovaksenya.replit.app/post'
 
 data = {
   "request": {
