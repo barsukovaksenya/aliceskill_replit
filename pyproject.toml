@@ -1,0 +1,9 @@
+[project]
+name = "aliceskill_replit"
+version = "0.1.0"
+description = "YandexAliceSkill"
+requires-python = ">=3.11"
+dependencies = [
+    "Flask==3.0.3",
+    "gunicorn==23.0.0",
+]
